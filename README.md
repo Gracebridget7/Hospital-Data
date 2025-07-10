@@ -10,14 +10,23 @@ First project about Hospital Data
        hypertension
        heart failure
        arrhythmias
+
 2.Type 2 Diabetes
 
        Type 1
        Type 2
        Gestational diabetes. 
 
-3.Obesity
+3.Chronic Respiratory Diseases
 
-4.Chronic Respiratory Diseases (COPD, Asthma)
+       asthma
+       chronic obstructive pulmonary disease (COPD)
+       occupational lung diseases
 
-5.Cancers (e.g., Lung, Colorectal)
+4.Cancers
+ 
+       breast cancer
+       lung cancer
+       prostate cancer
+       colorectal cancer
+       skin cancer 
